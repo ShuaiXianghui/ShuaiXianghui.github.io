@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hui's Pages
 
 You can use the [editor on GitHub](https://github.com/ShuaiXianghui/ShuaiXianghui.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
